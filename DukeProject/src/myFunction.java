@@ -1,13 +1,3 @@
-/*public class myFunction {
-	static void myMethod() {
-	    System.out.println("I just got executed!");
-	  }
-
-	  public static void main(String[] args) {
-		  myMethod();
-	  }
-} */
-
 class myFunction {
 
 	  // create a method
@@ -19,8 +9,8 @@ class myFunction {
 
 	  public static void main(String[] args) {
 	    
-	    int num1 = 25;
-	    int num2 = 15;
+	    int num1 = 7;
+	    int num2 = 21;
 
 	    // create an object of Main
 	    myFunction obj = new myFunction();
